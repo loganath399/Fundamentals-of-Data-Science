@@ -1,0 +1,4 @@
+Data science is an important field.
+Data science uses Python for data analysis.
+Python is useful for data visualization.
+Data analysis helps businesses make decisions.

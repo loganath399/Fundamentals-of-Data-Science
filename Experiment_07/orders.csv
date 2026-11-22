@@ -1,0 +1,6 @@
+Customer_ID,Order_Date,Product,Quantity
+C101,2026-01-05,Laptop,2
+C102,2026-01-10,Mouse,4
+C101,2026-01-15,Mouse,2
+C103,2026-01-20,Laptop,1
+C102,2026-01-25,Keyboard,3
